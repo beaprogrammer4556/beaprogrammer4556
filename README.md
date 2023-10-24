@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saikat Dey</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
+<img align="right" alt="coding" width="400"src="![image](https://github.com/beaprogrammer4556/beaprogrammer4556/assets/86396054/d8f58cf2-de45-44de-b5a0-6ac88df82ed2)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beaprogrammer4556&label=Profile%20views&color=0e75b6&style=flat" alt="beaprogrammer4556" /> </p>
 
 - 💬 Ask me about **java, reactjs and mysql**
